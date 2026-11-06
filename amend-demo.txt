@@ -1,0 +1,2 @@
+Learn Git amend
+Practice Git stash - work in progress
